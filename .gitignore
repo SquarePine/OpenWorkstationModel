@@ -1,32 +1,24 @@
-# Prerequisites
-*.d
+#JUCE generated content
+Builds
+BinaryData.h
+BinaryData.cpp
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#Doxygen
+Doxygen/doc
 
-# Precompiled Headers
-*.gch
-*.pch
+#Windows Temp Cache Files
+[Tt]humbs.db
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+#macOS Finder and whatnot
+.DS_Store
+*.DS_Store
+*.swp
+*~
 
-# Fortran module files
-*.mod
-*.smod
+#Visual Studio Code files
+.vscode/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
